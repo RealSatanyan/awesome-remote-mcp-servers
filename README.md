@@ -2643,7 +2643,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
 - [MnogoReels](https://mnogo-reels.ru) `https://mcp.mnogo-reels.ru/mcp`
   [![MnogoReels MCP connector](https://glama.ai/mcp/connectors/ru.mnogo-reels/mnogoreels/badges/score.svg)](https://glama.ai/mcp/connectors/ru.mnogo-reels/mnogoreels)
-  🔑 - Turn long videos into captioned vertical shorts, transcripts and articles with your own API key.
+  🔓 - Turn long videos into captioned vertical shorts, transcripts and articles with your own API key.
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
